@@ -5,6 +5,78 @@
     "title": "Steal a Brainrot",
     "description": "The official G+ unblocked version.",
     "image": "https://steal-a-brainrot-unblocked-g.github.io/images/thumbnail.webp",
-    "iframe_url": "https://st.8games.net/9/8g/igra-ukradi-brejnrot-original-3d/" 
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2025/rhm2/steal-brainrot-duel/index.html"
+  },
+  {
+    "id": "2",
+    "slug": "golf-bit",
+    "title": "Golf Bit",
+    "description": "Get ready for non-stop action with Golf Bit.",
+    "image": "./media/posts/609/golf-bit-unblocked-cg.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2026/construct/328/golf-bit/game.html"
+  },
+  {
+    "id": "3",
+    "slug": "cluster-rush",
+    "title": "Cluster Rush",
+    "description": "Fast-paced and addictive arcade gameplay.",
+    "image": "./media/posts/608/cluster-rush-unblocked-cg.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/cdn/index.html#/class3/cluster-rush"
+  },
+  {
+    "id": "4",
+    "slug": "velocity-rush",
+    "title": "Velocity Rush",
+    "description": "Navigate through dynamic environments with unpredictable obstacles.",
+    "image": "./media/posts/607/velocity-rush-unblocked-cg.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2026/unity/velocity-rush/game.html"
+  },
+  {
+    "id": "5",
+    "slug": "snaker-io",
+    "title": "Snaker io",
+    "description": "Experience the classic snake game with an io twist.",
+    "image": "./media/posts/606/snaker-io-unblocked-cg.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2026/more/snaker-io/game.html"
+  },
+  {
+    "id": "6",
+    "slug": "jungle-mart",
+    "title": "Jungle Mart",
+    "description": "Manage your own jungle supermarket simulator.",
+    "image": "./media/posts/605/jungle-mart-unblocked-cg.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2026/construct/339/jungle-mart/game.html"
+  },
+  {
+    "id": "7",
+    "slug": "snow-rider-3d",
+    "title": "Snow Rider 3D",
+    "description": "Rush down a vibrant snowy hill on a customizable sled.",
+    "image": "./media/posts/570/snow-rider-3d-classroom.webp",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2025/unity2/snow-rider-3d/classroomgames/index.html"
+  },
+  {
+    "id": "8",
+    "slug": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Step into the shoes of renowned players like LeBron James.",
+    "image": "./media/posts/449/Basketball-Stars-512x512.jpg",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/gm/basketball-stars/index.html"
+  },
+  {
+    "id": "9",
+    "slug": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "Loop, jump, and dodge deadly traps on your bike.",
+    "image": "./media/posts/448/Moto-X3M-Original-512x512.jpg",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/gm/moto-x3m/index.html"
+  },
+  {
+    "id": "10",
+    "slug": "block-blast",
+    "title": "Block Blast",
+    "description": "Strategically place blocks to clear rows and columns.",
+    "image": "./media/posts/558/Block-Blast.jpg",
+    "iframe_url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/unity3/block-blast/index.html"
   }
 ]
